@@ -1,5 +1,6 @@
 # language: pt
 
+@agibank
 Funcionalidade: Barra de pesquisa
 
   Esquema do Cenário: Validar funcionalidade - Barra de pesquisa
