@@ -1,5 +1,5 @@
 class Instance
-    def busca
-      Busca.new
-    end
+  def busca
+    Busca.new
+  end
 end
